@@ -1,2 +1,3 @@
 # FaceRecognition
 By going through  this program , you can gain some  knowledge about haar cascade classifiers...
+Reference Journal : "Rapid Object Detection using aBoosted Cascade of Simple Features"
